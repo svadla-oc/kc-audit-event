@@ -1,0 +1,6 @@
+com/openclinica/providers/events/AuditEventUtil.class
+com/openclinica/providers/events/AuditEventListenerProviderFactory.class
+com/openclinica/providers/events/AuditEventListenerProvider.class
+com/openclinica/providers/events/KeycloakAuditEventMain.class
+com/openclinica/providers/events/domain/enumeration/AuditEventType.class
+com/openclinica/providers/events/domain/AuditEventDTO.class
